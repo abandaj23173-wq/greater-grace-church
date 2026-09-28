@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+church.db
+static/uploads/
+app_backup.py
+app_before_large_video.py
+app_before_prayer_system.py
+app_before_final_prayer_navigation.py
+.env
